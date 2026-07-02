@@ -1,0 +1,6 @@
+# Normalize line endings for text files
+* text=auto
+
+# Markdown and skill files should stay readable in diffs
+*.md text eol=lf
+*.skill text eol=lf
